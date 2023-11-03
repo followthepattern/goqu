@@ -1,4 +1,5 @@
-module github.com/doug-martin/goqu/v9
+module 	github.com/followthepattern/goqu/v9
+
 
 go 1.12
 

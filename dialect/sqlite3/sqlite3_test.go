@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/doug-martin/goqu/v9"
-	"github.com/doug-martin/goqu/v9/dialect/mysql"
-	"github.com/doug-martin/goqu/v9/dialect/sqlite3"
+	"github.com/followthepattern/goqu/v9"
+	"github.com/followthepattern/goqu/v9/dialect/mysql"
+	"github.com/followthepattern/goqu/v9/dialect/sqlite3"
 	_ "github.com/mattn/go-sqlite3"
 
 	"github.com/stretchr/testify/suite"
